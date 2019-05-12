@@ -1,5 +1,5 @@
 #!/usr/bin/python
- 
+#A general flow in keras  
 import numpy as np 
 np.random.seed(123) #for reproductibility 
 
